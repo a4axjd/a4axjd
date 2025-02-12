@@ -2,8 +2,8 @@
 <h3 align="center">Web Developer | MERN Stack Enthusiast | Freelancer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blue" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YourUsername?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=a4axjd&color=blue" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/a4axjd?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
