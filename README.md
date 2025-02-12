@@ -38,18 +38,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a4axjd&theme=tokyonight" />
+  <img src="https://img.shields.io/github/stars/a4axjd?color=yellow&label=Stars" />
+  <img src="https://img.shields.io/github/followers/a4axjd?color=blue&label=Followers" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a4axjd&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a4axjd&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a4axjd&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a4axjd&theme=tokyonight&utcOffset=5" />
-</p>
 
 ---
 
