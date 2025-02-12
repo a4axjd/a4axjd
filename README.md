@@ -31,7 +31,7 @@
 🌿 **[Tidy Scapes](https://tidyscapesllc.com)** – Landscaping business website  
 🛍 **[Firdousia](https://firdousia.com)** – E-commerce store for traditional clothing  
 
-> **Check out more of my projects** at [GitHub Repos](https://github.com/YourUsername?tab=repositories)  
+> **Check out more of my projects** at [GitHub Repos](https://github.com/a4axjd?tab=repositories)  
 
 ---
 
@@ -42,11 +42,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a4axjd&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a4axjd&layout=compact&theme=tokyonight" />
 </p>
 
 ---
