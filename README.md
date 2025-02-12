@@ -38,8 +38,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/a4axjd?color=yellow&label=Stars" />
-  <img src="https://img.shields.io/github/followers/a4axjd?color=blue&label=Followers" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a4axjd&hide=contribs,prs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" />
 </p>
 
 
