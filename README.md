@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a4axjd&hide=contribs,prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a4axjd&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
