@@ -1,18 +1,18 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm [Your Name]!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm ASJAD!
 </h1>
 <h3 align="center">
   Full-Stack Web Developer | MERN Stack Specialist | Freelancer
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YourUsername?tab=repositories">
+  <a href="https://github.com/a4axjd?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-20+-brightgreen?style=flat&logo=github" alt="Projects">
   </a>
   <a href="https://linkedin.com/in/YourUsername">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:noorasjad3@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email">
   </a>
   <a href="https://visitor-badge.glitch.me">
@@ -50,9 +50,9 @@ Here are some of my standout projects:
 
 | Project | Description | Live Demo | Source Code |
 |---------|-------------|-----------|-------------|
-| **[LynixDevs](https://lynixdevs.com)** | Software & marketing agency | [Live](https://lynixdevs.com) | [GitHub](https://github.com/YourUsername/lynixdevs) |
-| **[Firdousia](https://firdousia.com)** | E-commerce store for traditional clothing | [Live](https://firdousia.com) | [GitHub](https://github.com/YourUsername/firdousia) |
-| **[Tidy Scapes](https://tidyscapes.com)** | Landscaping business website | [Live](https://tidyscapes.com) | [GitHub](https://github.com/YourUsername/tidyscapes) |
+| **[LynixDevs](https://lynixdevs.com)** | Software & marketing agency | [Live](https://lynixdevs.com) | [GitHub](https://github.com/a4axjd/lynixdevs) |
+| **[Firdousia](https://firdousia.com)** | E-commerce store for traditional clothing | [Live](https://firdousia.com) | [GitHub](https://github.com/a4axjd/firdousia) |
+| **[Tidy Scapes](https://tidyscapes.com)** | Landscaping business website | [Live](https://tidyscapes.com) | [GitHub](https://github.com/a4axjd/tidyscapes) |
 
 > **Explore more projects** on my [GitHub Repositories](https://github.com/YourUsername?tab=repositories).
 
@@ -63,9 +63,9 @@ Here are some of my standout projects:
 Here's a snapshot of my GitHub activity:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=a4axjd&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a4axjd&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a4axjd&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
