@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm ASJAD!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm [Your Name]!
 </h1>
 <h3 align="center">
   Full-Stack Web Developer | MERN Stack Specialist | Freelancer
@@ -7,16 +7,16 @@
 
 <p align="center">
   <a href="https://github.com/a4axjd?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-20+-brightgreen?style=flat&logo=github" alt="Projects">
+    <img src="https://img.shields.io/badge/Projects-20+-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
   </a>
   <a href="https://linkedin.com/in/YourUsername">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:noorasjad3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://visitor-badge.glitch.me">
-    <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blue&label=Profile+Views" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=a4axjd&color=blue&label=Profile+Views&style=for-the-badge" alt="Profile Views">
   </a>
 </p>
 
@@ -54,7 +54,7 @@ Here are some of my standout projects:
 | **[Firdousia](https://firdousia.com)** | E-commerce store for traditional clothing | [Live](https://firdousia.com) | [GitHub](https://github.com/a4axjd/firdousia) |
 | **[Tidy Scapes](https://tidyscapes.com)** | Landscaping business website | [Live](https://tidyscapes.com) | [GitHub](https://github.com/a4axjd/tidyscapes) |
 
-> **Explore more projects** on my [GitHub Repositories](https://github.com/YourUsername?tab=repositories).
+> **Explore more projects** on my [GitHub Repositories](https://github.com/a4axjd?tab=repositories).
 
 ---
 
@@ -84,7 +84,7 @@ Let's collaborate or chat! Feel free to reach out:
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/YourUsername">
+  <a href="https://github.com/a4axjd">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
