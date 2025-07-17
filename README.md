@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/a4axjd?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-20+-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
+    <img src="https://img.shields.io/badge/Projects-40+-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
   </a>
   <a href="https://linkedin.com/in/axjad">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
